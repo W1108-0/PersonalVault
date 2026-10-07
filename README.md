@@ -349,8 +349,18 @@ PyInstaller 打包的 exe 常被误报。解决方案：
 
 ## 许可
 
-[MIT License](LICENSE)
+[GNU General Public License v3.0](LICENSE)
 
+Copyright (C) 2026 <W1108-0>
+
+本程序是自由软件：你可以根据自由软件基金会发布的 GNU 通用公共许可证
+（版本 3 或更高版本）条款重新发布和/或修改它。
+
+本程序的发布是希望它有用，但不提供任何担保，甚至没有适销性或特定用途
+适用性的默示担保。详见 GNU 通用公共许可证。
+
+你应该已经随本程序收到一份 GNU 通用公共许可证的副本。如果没有，
+请访问 <https://www.gnu.org/licenses/>。
 ---
 
 ## 免责声明
